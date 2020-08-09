@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ```
 -->
 
-[![AguiarVicente github stats](https://github-readme-stats.vercel.app/api?username=AguiarVicente)](https://github.com/AguiarVicente/github-readme-stats)
+[![AguiarVicente's github stats](https://github-readme-stats.vercel.app/api?username=AguiarVicente)](https://github.com/anuraghazra/github-readme-stats)
