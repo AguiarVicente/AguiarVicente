@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![AguiarVicente's github stats](https://github-readme-stats.vercel.app/api?username=AguiarVicente&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AguiarVicente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=revisao_javascript)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=curso_python)](https://github.com/anuraghazra/github-readme-stats)
