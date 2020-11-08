@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AguiarVicente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=revisao_javascript)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=curso_python)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=Codewars)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=curso_python)](https://github.com/AguiarVicente/curso_python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=Codewars)](https://github.com/AguiarVicente/Codewars)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=TS)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=dashboard)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=curso_angular)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=dashboard)](https://github.com/AguiarVicente/dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=curso_angular)](https://github.com/AguiarVicente/curso_angular)
