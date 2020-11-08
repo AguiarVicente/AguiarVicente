@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=curso_typescript)](https://github.com/AguiarVicente/curso_typescript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=dashboard)](https://github.com/AguiarVicente/dashboard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=curso_angular)](https://github.com/AguiarVicente/curso_angular)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AguiarVicente&repo=Codility)](https://github.com/AguiarVicente/Codility)
